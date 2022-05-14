@@ -1,0 +1,8 @@
+ctz-users-profile/app/api/__pycache__/*.*
+ctz-users-profile/app/api/__pycache__/*.pyc
+ctz-users-profile/.cot-env
+ctz-users-profile/.cot-envdb
+ctz-users-profile/.env
+ctz-users-profile/app/log/*
+ctz-users-profile/app/core/migrations/*
+ctz-users-profile/app/media/*
