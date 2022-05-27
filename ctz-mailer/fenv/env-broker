@@ -1,0 +1,2 @@
+CELERY_BROKER_URL=amqp://guest:guest@mailerbroker:5672/
+FLOWER_BROKER=amqp://guest:guest@mailerbroker:5672/

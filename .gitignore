@@ -11,5 +11,7 @@ ctz-mailer/app/api/__pycache__/*.*
 ctz-mailer/app/api/__pycache__/*.pyc
 ctz-mailer/.cot-env
 ctz-mailer/.cot-envdb
+ctz-mailer/.env-broker
+ctz-mailer/.cot-env-celery
 ctz-mailer/app/log/*
 ctz-mailer/app/core/migrations/0001_initial.py

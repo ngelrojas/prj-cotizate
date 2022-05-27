@@ -70,3 +70,11 @@ api python /usr/src/app/manage.py runserver 0.0.0.0:9001
 - then create super user
 - stop docker, and re-run docker
 
+#### Dashboard admin RabbitMQ
+- url: localhost:15672
+- user: guest
+- password: guest
+
+#### Dashboard admin Flower
+- url: localhost: 5555
+

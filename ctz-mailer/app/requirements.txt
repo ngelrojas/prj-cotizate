@@ -7,3 +7,4 @@ gunicorn
 flake8
 six
 celery
+python-decouple

@@ -9,7 +9,7 @@ import os
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "api.settings")
 # app = Celery("api", broker="pyamqp://guest:guest@rabbitmq:15672//")
 app = Celery("api", broker="pyamqp://guest:guest@mailerbroker:5672//")
-app = Celery("api")
+# app = Celery("api")
 
 app.config_from_object("django.conf:settings", namespace="CELERY")
 
