@@ -8,3 +8,4 @@ flake8
 six
 celery
 python-decouple
+kombu

@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 import os
 import datetime
 from pathlib import Path
-from decouple import config, Csv
+from decouple import config
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -66,7 +66,7 @@ ROOT_URLCONF = "api.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [os.path.join(BASE_DIR, "templates")],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -229,7 +229,7 @@ LOGGING = {
 # config celery
 CELERY_BROKER_URL = "amqp://guest:guest@mailerbroker:15672/"
 # config email
-EMAIL_USE_TLS = os.environ.get("EMAILUSETLS")
+EMAIL_USE_TLS = True 
 # EMAIL_USE_SSL = config("EMAILUSESSL")
 EMAIL_HOST = os.environ.get("EMAILHOST")
 EMAIL_PORT = os.environ.get("EMAILPORT")
