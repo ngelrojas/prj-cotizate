@@ -14,6 +14,8 @@ import os
 import datetime
 from pathlib import Path
 from decouple import config
+from corsheaders.defaults import default_methods
+from corsheaders.defaults import default_headers
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -156,11 +158,13 @@ CORS_ALLOW_ALL_ORIGINS = (
     True  # If this is used then `CORS_ALLOWED_ORIGINS` will not have any effect
 )
 
-CORS_ALLOW_CREDENTIALS = True
+# CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
 ]  # If this is used, then not need to use `CORS_ALLOW_ALL_ORIGINS = True`
+
+CORS_ALLOW_METHODS = list(default_methods)
 
 CORS_ALLOWED_ORIGIN_REGEXES = [
     "http://localhost:3000",
@@ -227,15 +231,18 @@ LOGGING = {
 }
 
 # config celery
-CELERY_BROKER_URL = "amqp://guest:guest@mailerbroker:15672/"
+RABBITMQ_DEFAULT_USER = "guest"
+RABBITMQ_DEFAULT_PASS = "guest"
+CELERY_BROKER_URL = "amqp://guest:guest@mailerbroker:5672/"
+FLOWER_BROKER_URL = "amqp://guest:guest@mailerbroker:5672"
 # config email
 EMAIL_USE_TLS = True 
-# EMAIL_USE_SSL = config("EMAILUSESSL")
-EMAIL_HOST = os.environ.get("EMAILHOST")
+# EMAIL_USE_SSL = os.environ.get("EMAILUSESSL")
+EMAIL_HOST = "smtp.ventun.com" # os.environ.get("EMAILHOST")
 EMAIL_PORT = os.environ.get("EMAILPORT")
 EMAIL_HOST_USER = os.environ.get("EMAILHOSTUSER")
 EMAIL_HOST_PASSWORD = os.environ.get("EMAILHOSTPASSWORD")
-EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_BACKEND = "django_smtp_ssl.SSLEmailBackend"
 DEFAULT_FROM_EMAIL = os.environ.get("DEFAULTFROMEMAIL")
 URL_PRODUCTION = os.environ.get("URLPRODUCTION")
 

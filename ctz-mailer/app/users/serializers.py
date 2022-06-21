@@ -6,6 +6,9 @@ from core.encoder_tokens import encode_user_id
 from core.encoder_tokens import make_user_token
 from api.celery import send_email_module
 from api import settings
+import os
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent.parent
 # from api.celery import producer
 
 # from api import settings
@@ -39,7 +42,9 @@ class UserSerializer(serializers.ModelSerializer):
             "uid": uid,
             "token": token,
         }
-        tmp_name = "emails/confirm_activated_email.html"
+        tmp_name = "emails/confirm_activated_email.html" 
+        # base_url = os.path.join(BASE_DIR, "templates")
+        # tmp_name = base_url + "/emails/confirm_activated_email.html"
         send_email_module.delay(
             subject="No reply",
             to=[validate_data["email"]],
