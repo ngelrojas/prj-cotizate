@@ -30,8 +30,10 @@ SECRET_KEY = config("SECRET_KEY", default="SECRET")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config("DEBUG", default=True)
 
-# ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS").split(" ")
-ALLOWED_HOSTS = ["*"] 
+ALLOWED_HOSTS = config(
+    "ALLOWED_HOSTS",
+    cast=lambda v:[s.strip() for s in v.split(" ")]
+)
 # Application definition
 
 LOCAL_APPS = [
@@ -236,15 +238,15 @@ RABBITMQ_DEFAULT_PASS = "guest"
 CELERY_BROKER_URL = "amqp://guest:guest@mailerbroker:5672/"
 FLOWER_BROKER_URL = "amqp://guest:guest@mailerbroker:5672"
 # config email
-EMAIL_USE_TLS = True 
+EMAIL_USE_TLS=True 
 # EMAIL_USE_SSL = os.environ.get("EMAILUSESSL")
-EMAIL_HOST = "smtp.ventun.com" # os.environ.get("EMAILHOST")
-EMAIL_PORT = os.environ.get("EMAILPORT")
-EMAIL_HOST_USER = os.environ.get("EMAILHOSTUSER")
-EMAIL_HOST_PASSWORD = os.environ.get("EMAILHOSTPASSWORD")
+EMAIL_HOST = config("EMAILHOST")
+EMAIL_PORT = 21104 
+EMAIL_HOST_USER = config("EMAILHOSTUSER")
+EMAIL_HOST_PASSWORD = config("EMAILHOSTPASSWORD") 
 EMAIL_BACKEND = "django_smtp_ssl.SSLEmailBackend"
-DEFAULT_FROM_EMAIL = os.environ.get("DEFAULTFROMEMAIL")
-URL_PRODUCTION = os.environ.get("URLPRODUCTION")
+DEFAULT_FROM_EMAIL = config("DEFAULTFROMEMAIL")
+URL_PRODUCTION = config("URLPRODUCTION")
 
 # CELERY_BROKER_URL = os.environ.get("CELERY_BROKER_URL")
 # broker_url = "amqp://guest:guest@rabbitmq:15672//"

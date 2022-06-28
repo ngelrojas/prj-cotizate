@@ -1,0 +1,3 @@
+POSTGRES_USER=ctz_user_mailer
+POSTGRES_PASSWORD=ctZmIler22
+POSTGRES_DB=ctz_mailer

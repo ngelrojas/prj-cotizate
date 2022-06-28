@@ -10,7 +10,7 @@ services:
     ports:
       - 9002:9002
     env_file:
-      - ./.cot-env
+      - ./app/.env
     depends_on:
       - db
 
@@ -20,14 +20,14 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     env_file:
-      - ./.cot-envdb
+      - ./.envdb
 
   worker:
       build: ./app
       container_name: 'celery_mailer'
       restart: always 
       env_file:
-          - ./.env-broker
+          - ./.envbroker
       command: celery -A api.celery worker -l INFO 
       volumes:
           - ./app/:/usr/src/app/
@@ -38,7 +38,7 @@ services:
       container_name: 'flower_mailer'
       restart: always 
       env_file:
-          - ./.env-broker
+          - ./.envbroker
       ports:
           - 5555:5555
       depends_on:
@@ -48,7 +48,7 @@ services:
       hostname: 'mailerbroker'
       container_name: 'rabbitmq_mailer'
       env_file:
-          - ./.env-broker
+          - ./.envbroker
       ports:
           - 5672:5672
           - 15672:15672
