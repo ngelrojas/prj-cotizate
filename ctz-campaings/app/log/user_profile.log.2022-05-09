@@ -1,0 +1,1179 @@
+[06/May/2022 23:29:57.984]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:36:41.344]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:37:52.712]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:46:11.684]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:50:44.526]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[06/May/2022 23:50:45.232]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:51:26.049]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[06/May/2022 23:51:26.603]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:51:59.966]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[06/May/2022 23:52:00.566]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:52:08.781]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[06/May/2022 23:52:09.394]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:57:59.363]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[06/May/2022 23:58:11.651]INFO [django.server:161] "GET /admin HTTP/1.1" 301 0
+[06/May/2022 23:58:11.665]INFO [django.server:161] "GET /admin/ HTTP/1.1" 302 0
+[06/May/2022 23:58:11.697]INFO [django.server:161] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2211
+[06/May/2022 23:58:11.732]INFO [django.server:161] "GET /static/admin/css/login.css HTTP/1.1" 200 939
+[06/May/2022 23:58:11.733]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[06/May/2022 23:58:11.733]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[06/May/2022 23:58:11.733]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[06/May/2022 23:58:11.764]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[06/May/2022 23:58:11.765]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[06/May/2022 23:58:11.780]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:11.780]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:11.859]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:11.860]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:11.860]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[06/May/2022 23:58:11.860]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[06/May/2022 23:58:12.813]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:12.813]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:17.530]INFO [django.server:161] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[06/May/2022 23:58:17.546]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 3559
+[06/May/2022 23:58:17.563]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[06/May/2022 23:58:17.581]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:17.581]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:17.618]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[06/May/2022 23:58:17.618]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[06/May/2022 23:58:17.652]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[06/May/2022 23:58:18.622]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:18.622]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:20.181]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 7870
+[06/May/2022 23:58:20.199]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[06/May/2022 23:58:20.208]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 200 7664
+[06/May/2022 23:58:20.209]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[06/May/2022 23:58:20.210]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[06/May/2022 23:58:20.211]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[06/May/2022 23:58:20.214]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[06/May/2022 23:58:20.216]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[06/May/2022 23:58:20.217]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[06/May/2022 23:58:20.218]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[06/May/2022 23:58:20.219]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[06/May/2022 23:58:20.247]INFO [django.server:161] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[06/May/2022 23:58:20.248]INFO [django.server:161] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[06/May/2022 23:58:20.251]INFO [django.server:161] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[06/May/2022 23:58:20.255]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[06/May/2022 23:58:20.276]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:20.277]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:21.283]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:21.283]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:39.230]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 10393
+[06/May/2022 23:58:39.264]INFO [django.server:161] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[06/May/2022 23:58:39.264]INFO [django.server:161] "GET /static/admin/css/forms.css HTTP/1.1" 200 8804
+[06/May/2022 23:58:39.265]INFO [django.server:161] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[06/May/2022 23:58:39.265]INFO [django.server:161] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[06/May/2022 23:58:39.269]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[06/May/2022 23:58:39.285]INFO [django.server:161] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[06/May/2022 23:58:39.309]INFO [django.server:161] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[06/May/2022 23:58:39.345]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:39.347]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[06/May/2022 23:58:39.347]INFO [django.server:161] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[06/May/2022 23:58:39.347]INFO [django.server:161] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[06/May/2022 23:58:40.355]WARNING [django.request:224] Not Found: /favicon.ico
+[06/May/2022 23:58:40.356]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:40:18.191]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 19:41:13.304]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 19:41:29.035]INFO [django.server:161] "GET /admin/ HTTP/1.1" 302 0
+[07/May/2022 19:41:29.063]INFO [django.server:161] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2211
+[07/May/2022 19:41:29.091]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[07/May/2022 19:41:29.092]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[07/May/2022 19:41:29.092]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[07/May/2022 19:41:29.093]INFO [django.server:161] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[07/May/2022 19:41:29.116]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[07/May/2022 19:41:29.116]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[07/May/2022 19:41:29.181]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[07/May/2022 19:41:29.181]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[07/May/2022 19:41:29.190]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:29.190]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:29.201]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:29.201]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:30.195]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:30.196]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:35.544]INFO [django.server:161] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[07/May/2022 19:41:35.560]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 3559
+[07/May/2022 19:41:35.576]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[07/May/2022 19:41:35.595]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:35.595]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:35.624]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:35.624]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:35.660]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[07/May/2022 19:41:36.628]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:36.629]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:37.951]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 7870
+[07/May/2022 19:41:37.975]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[07/May/2022 19:41:37.975]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.977]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.980]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.981]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.983]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.983]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[07/May/2022 19:41:37.984]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:41:37.985]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[07/May/2022 19:41:37.986]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[07/May/2022 19:41:38.028]INFO [django.server:161] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:38.028]INFO [django.server:161] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:38.033]INFO [django.server:161] "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:38.036]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[07/May/2022 19:41:38.059]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:38.060]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:41:39.066]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:41:39.067]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:42:13.364]INFO [django.utils.autoreload:251] /usr/src/app/core/admin.py changed, reloading.
+[07/May/2022 19:42:13.992]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 19:42:16.950]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8382
+[07/May/2022 19:42:16.983]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:42:17.033]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:42:17.033]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:42:18.034]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:42:18.034]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:42:40.068]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 10393
+[07/May/2022 19:42:40.103]INFO [django.server:161] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[07/May/2022 19:42:40.105]INFO [django.server:161] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[07/May/2022 19:42:40.105]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:42:40.106]INFO [django.server:161] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[07/May/2022 19:42:40.106]INFO [django.server:161] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[07/May/2022 19:42:40.121]INFO [django.server:161] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[07/May/2022 19:42:40.122]INFO [django.server:161] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[07/May/2022 19:42:40.164]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:42:40.166]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:42:40.167]INFO [django.server:161] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[07/May/2022 19:42:40.167]INFO [django.server:161] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[07/May/2022 19:42:41.170]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:42:41.170]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:43:01.030]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8382
+[07/May/2022 19:43:01.067]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:43:01.123]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:43:01.123]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:43:02.129]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:43:02.129]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:51:14.260]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[07/May/2022 19:51:14.915]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 19:53:16.428]WARNING [django.request:224] Not Found: /api/v1/auth
+[07/May/2022 19:53:16.428]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 404 3730
+[07/May/2022 19:53:50.762]WARNING [django.request:224] Not Found: /api/v1/auth
+[07/May/2022 19:53:50.763]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 404 3730
+[07/May/2022 19:53:53.739]WARNING [django.request:224] Not Found: /api/v1/auth
+[07/May/2022 19:53:53.739]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 404 3730
+[07/May/2022 19:56:45.751]WARNING [django.request:224] Not Found: /api/v1/auth/
+[07/May/2022 19:56:45.751]WARNING [django.server:161] "POST /api/v1/auth/ HTTP/1.1" 404 3733
+[07/May/2022 19:56:46.800]WARNING [django.request:224] Not Found: /api/v1/auth/
+[07/May/2022 19:56:46.800]WARNING [django.server:161] "POST /api/v1/auth/ HTTP/1.1" 404 3733
+[07/May/2022 19:56:57.060]WARNING [django.request:224] Not Found: /api/v1/
+[07/May/2022 19:56:57.061]WARNING [django.server:161] "POST /api/v1/ HTTP/1.1" 404 3718
+[07/May/2022 19:56:58.166]WARNING [django.request:224] Not Found: /api/v1/
+[07/May/2022 19:56:58.167]WARNING [django.server:161] "POST /api/v1/ HTTP/1.1" 404 3718
+[07/May/2022 19:57:00.303]WARNING [django.request:224] Not Found: /api/v1
+[07/May/2022 19:57:00.303]WARNING [django.server:161] "POST /api/v1 HTTP/1.1" 404 3715
+[07/May/2022 19:57:01.135]WARNING [django.request:224] Not Found: /api/v1
+[07/May/2022 19:57:01.135]WARNING [django.server:161] "POST /api/v1 HTTP/1.1" 404 3715
+[07/May/2022 19:57:11.423]WARNING [django.request:224] Not Found: /api/v1/auth
+[07/May/2022 19:57:11.423]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 404 3730
+[07/May/2022 19:57:47.010]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[07/May/2022 19:57:47.621]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 19:57:51.339]WARNING [django.request:224] Bad Request: /api/v1/auth
+[07/May/2022 19:57:51.340]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 400 55
+[07/May/2022 19:58:10.238]WARNING [django.request:224] Not Found: /api/v1auth
+[07/May/2022 19:58:10.238]WARNING [django.server:161] "POST /api/v1auth HTTP/1.1" 404 2321
+[07/May/2022 19:58:15.373]WARNING [django.request:224] Bad Request: /api/v1/auth
+[07/May/2022 19:58:15.374]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 400 55
+[07/May/2022 19:58:50.333]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8382
+[07/May/2022 19:58:50.366]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:58:50.549]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:50.550]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:58:51.563]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:51.563]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:58:52.034]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 10393
+[07/May/2022 19:58:52.060]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:58:52.087]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:52.087]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:58:53.087]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:53.088]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:58:58.214]INFO [django.server:161] "POST /admin/core/user/2/change/ HTTP/1.1" 302 0
+[07/May/2022 19:58:58.239]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8586
+[07/May/2022 19:58:58.266]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 19:58:58.291]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:58.292]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:58:59.298]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 19:58:59.299]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 19:59:02.034]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 209
+[07/May/2022 20:00:02.835]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 209
+[07/May/2022 20:06:34.041]WARNING [django.request:224] Method Not Allowed: /api/v1/user
+[07/May/2022 20:06:34.042]WARNING [django.server:161] "GET /api/v1/user HTTP/1.1" 405 40
+[07/May/2022 20:07:12.591]INFO [django.server:161] "GET /api/v1/user/2 HTTP/1.1" 200 101
+[07/May/2022 20:09:23.628]INFO [django.utils.autoreload:251] /usr/src/app/users/serializers.py changed, reloading.
+[07/May/2022 20:09:24.400]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[07/May/2022 20:09:27.409]INFO [django.server:161] "GET /api/v1/user/2 HTTP/1.1" 200 121
+[07/May/2022 20:14:13.332]INFO [django.server:161] "POST /api/v1/user HTTP/1.1" 201 134
+[07/May/2022 20:14:25.138]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8863
+[07/May/2022 20:14:25.171]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 20:14:25.366]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:14:25.366]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:14:26.376]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:14:26.377]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:14:28.109]INFO [django.server:161] "GET /admin/core/user/5/change/ HTTP/1.1" 200 10426
+[07/May/2022 20:14:28.136]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 20:14:28.162]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:14:28.163]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:14:29.171]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:14:29.171]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:15:59.009]WARNING [django.request:224] Bad Request: /api/v1/auth
+[07/May/2022 20:15:59.010]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 400 55
+[07/May/2022 20:16:08.538]INFO [django.server:161] "POST /admin/core/user/5/change/ HTTP/1.1" 302 0
+[07/May/2022 20:16:08.564]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 9071
+[07/May/2022 20:16:08.598]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 20:16:08.652]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:16:08.653]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:16:09.659]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:16:09.659]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:16:16.608]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:18:29.376]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 121
+[07/May/2022 20:18:31.109]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 121
+[07/May/2022 20:18:55.235]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 142
+[07/May/2022 20:19:01.503]INFO [django.server:161] "PUT /api/v1/user/5 HTTP/1.1" 200 35
+[07/May/2022 20:19:06.053]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 159
+[07/May/2022 20:19:22.855]INFO [django.server:161] "PUT /api/v1/user/5 HTTP/1.1" 200 35
+[07/May/2022 20:19:25.302]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 158
+[07/May/2022 20:19:31.127]INFO [django.server:161] "PUT /api/v1/user/5 HTTP/1.1" 200 35
+[07/May/2022 20:29:45.487]INFO [django.server:161] "DELETE /api/v1/user/5 HTTP/1.1" 204 34
+[07/May/2022 20:29:51.469]WARNING [django.request:224] Bad Request: /api/v1/user/5
+[07/May/2022 20:29:51.469]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 400 58
+[07/May/2022 20:34:29.906]WARNING [django.request:224] Bad Request: /api/v1/auth
+[07/May/2022 20:34:29.906]WARNING [django.server:161] "POST /api/v1/auth HTTP/1.1" 400 55
+[07/May/2022 20:34:40.797]INFO [django.server:161] "GET /admin/core/user/5/change/ HTTP/1.1" 200 10443
+[07/May/2022 20:34:40.825]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 20:34:40.869]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:34:40.869]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:34:41.878]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:34:41.879]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:34:43.830]INFO [django.server:161] "POST /admin/core/user/5/change/ HTTP/1.1" 302 0
+[07/May/2022 20:34:43.857]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 9088
+[07/May/2022 20:34:43.883]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[07/May/2022 20:34:43.909]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:34:43.910]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:34:44.915]WARNING [django.request:224] Not Found: /favicon.ico
+[07/May/2022 20:34:44.916]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[07/May/2022 20:34:46.743]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:34:54.571]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 159
+[07/May/2022 20:35:03.556]INFO [django.server:161] "PUT /api/v1/user/5 HTTP/1.1" 200 35
+[07/May/2022 20:35:06.666]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 20:54:12.692]WARNING [django.request:224] Bad Request: /api/v1/user/5
+[07/May/2022 20:54:12.692]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 400 58
+[07/May/2022 20:54:19.199]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:54:19.200]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:54:33.712]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:54:36.705]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:54:36.706]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:54:37.591]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:54:37.591]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:54:38.473]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:54:38.473]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:55:08.220]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:55:08.220]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:55:31.664]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[07/May/2022 20:55:31.665]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 88
+[07/May/2022 20:56:59.288]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:57:20.349]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:57:33.666]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[07/May/2022 20:57:36.140]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 21:02:50.888]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 21:03:04.732]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 21:03:10.529]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 21:04:09.106]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[07/May/2022 21:09:30.847]INFO [django.server:161] "GET /api/v1/user/1 HTTP/1.1" 200 155
+[07/May/2022 21:09:37.752]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[08/May/2022 00:07:58.711]WARNING [django.request:224] Unauthorized: /api/v1/user/5
+[08/May/2022 00:07:58.711]WARNING [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 401 35
+[08/May/2022 00:08:04.118]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 220
+[08/May/2022 00:08:07.086]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 155
+[08/May/2022 00:08:19.076]INFO [django.server:161] "PUT /api/v1/user/5 HTTP/1.1" 200 35
+[08/May/2022 00:14:46.068]INFO [django.server:161] "GET /api/v1/user/5 HTTP/1.1" 200 157
+[08/May/2022 13:58:58.244]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 18:41:09.450]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 18:43:21.691]INFO [django.utils.autoreload:251] /usr/src/app/core/models.py changed, reloading.
+[08/May/2022 18:43:22.312]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 18:43:45.652]INFO [django.utils.autoreload:251] /usr/src/app/core/social_network.py changed, reloading.
+[08/May/2022 18:43:46.300]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 18:44:16.702]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[08/May/2022 18:44:17.354]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 19:10:39.401]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 4473
+[08/May/2022 19:10:39.425]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[08/May/2022 19:10:39.427]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[08/May/2022 19:10:39.431]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[08/May/2022 19:10:39.432]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[08/May/2022 19:10:39.457]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[08/May/2022 19:10:39.459]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[08/May/2022 19:10:39.475]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:39.475]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:39.482]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[08/May/2022 19:10:39.482]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[08/May/2022 19:10:39.600]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[08/May/2022 19:10:39.600]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[08/May/2022 19:10:39.601]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[08/May/2022 19:10:39.631]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:39.632]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:40.624]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:40.624]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:45.780]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 8878
+[08/May/2022 19:10:45.803]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[08/May/2022 19:10:45.803]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[08/May/2022 19:10:45.805]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[08/May/2022 19:10:45.805]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[08/May/2022 19:10:45.811]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[08/May/2022 19:10:45.813]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 200 7664
+[08/May/2022 19:10:45.813]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[08/May/2022 19:10:45.814]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[08/May/2022 19:10:45.815]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[08/May/2022 19:10:45.815]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[08/May/2022 19:10:45.837]INFO [django.server:161] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[08/May/2022 19:10:45.839]INFO [django.server:161] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[08/May/2022 19:10:45.847]INFO [django.server:161] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[08/May/2022 19:10:45.857]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[08/May/2022 19:10:45.884]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:45.884]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:46.903]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:46.904]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:56.087]INFO [django.server:161] "GET /admin/core/ HTTP/1.1" 200 2728
+[08/May/2022 19:10:56.133]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:56.134]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:10:57.142]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:10:57.142]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:14:51.520]INFO [django.utils.autoreload:251] /usr/src/app/core/admin.py changed, reloading.
+[08/May/2022 19:14:52.229]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 19:14:55.141]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 19:14:55.204]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:14:55.204]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:14:56.199]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 19:14:56.200]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 19:31:30.046]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 19:33:00.847]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 20:12:05.509]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[08/May/2022 20:12:06.123]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 20:13:41.510]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[08/May/2022 20:13:42.128]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 20:15:42.421]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 20:15:42.445]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[08/May/2022 20:15:42.446]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[08/May/2022 20:15:42.446]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[08/May/2022 20:15:42.447]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[08/May/2022 20:15:42.467]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[08/May/2022 20:15:42.468]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[08/May/2022 20:15:42.484]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[08/May/2022 20:15:42.484]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[08/May/2022 20:15:42.487]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:42.487]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:42.572]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 20:15:42.573]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 20:15:42.573]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 20:15:43.595]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:43.595]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:44.673]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 20:15:44.715]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:44.715]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:45.279]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 20:15:45.316]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:45.317]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:46.319]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:46.319]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:55.065]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 20:15:57.351]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 20:15:57.405]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:57.405]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:58.237]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 20:15:58.279]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:58.280]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 20:15:59.282]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 20:15:59.282]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 22:38:07.108]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[08/May/2022 22:38:07.135]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[08/May/2022 22:38:07.137]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[08/May/2022 22:38:07.137]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[08/May/2022 22:38:07.137]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[08/May/2022 22:38:07.155]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[08/May/2022 22:38:07.157]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[08/May/2022 22:38:07.172]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[08/May/2022 22:38:07.172]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[08/May/2022 22:38:07.174]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 22:38:07.174]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 22:38:07.243]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 22:38:07.243]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 22:38:07.243]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[08/May/2022 22:38:08.272]WARNING [django.request:224] Not Found: /favicon.ico
+[08/May/2022 22:38:08.272]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2323
+[08/May/2022 22:52:31.988]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[08/May/2022 22:52:32.622]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 23:42:20.056]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 209
+[08/May/2022 23:51:22.530]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[08/May/2022 23:51:23.141]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 23:51:48.581]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[08/May/2022 23:51:49.188]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 23:51:52.352]INFO [django.utils.autoreload:251] /usr/src/app/api/settings.py changed, reloading.
+[08/May/2022 23:51:52.957]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 23:52:36.698]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[08/May/2022 23:52:37.306]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[08/May/2022 23:54:34.519]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 11
+[09/May/2022 00:02:35.786]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address
+[09/May/2022 00:02:35.786]WARNING [django.server:161] "POST /api/v1/user/contact-address HTTP/1.1" 400 111
+[09/May/2022 00:02:59.911]ERROR [django.request:224] Internal Server Error: /api/v1/user/contact-address
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.9/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.9/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/local/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ContactAddress is not JSON serializable
+[09/May/2022 00:02:59.912]ERROR [django.server:161] "POST /api/v1/user/contact-address HTTP/1.1" 500 97254
+[09/May/2022 00:03:31.591]INFO [django.server:161] "GET /admin/ HTTP/1.1" 200 6313
+[09/May/2022 00:03:31.615]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/May/2022 00:03:31.617]INFO [django.server:161] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/May/2022 00:03:31.617]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/May/2022 00:03:31.619]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/May/2022 00:03:31.636]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/May/2022 00:03:31.638]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/May/2022 00:03:31.652]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/May/2022 00:03:31.653]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/May/2022 00:03:31.654]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:31.654]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:03:31.718]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 00:03:31.718]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 00:03:31.718]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 00:03:32.744]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:32.744]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:03:34.331]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7186
+[09/May/2022 00:03:34.351]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/May/2022 00:03:34.355]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.356]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.356]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.359]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:03:34.359]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.361]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.362]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/May/2022 00:03:34.363]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/May/2022 00:03:34.364]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[09/May/2022 00:03:34.454]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/May/2022 00:03:34.472]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:34.472]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:03:35.476]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:35.476]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:03:40.636]INFO [django.server:161] "GET /admin/core/contactaddress/1/change/ HTTP/1.1" 200 12341
+[09/May/2022 00:03:40.661]INFO [django.server:161] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[09/May/2022 00:03:40.661]INFO [django.server:161] "GET /static/admin/css/forms.css HTTP/1.1" 200 8804
+[09/May/2022 00:03:40.662]INFO [django.server:161] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[09/May/2022 00:03:40.666]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:03:40.672]INFO [django.server:161] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[09/May/2022 00:03:40.675]INFO [django.server:161] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[09/May/2022 00:03:40.677]INFO [django.server:161] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[09/May/2022 00:03:40.705]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:40.707]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:03:40.707]INFO [django.server:161] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[09/May/2022 00:03:41.711]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:03:41.712]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:05:03.814]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 00:05:04.459]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:05:06.503]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7178
+[09/May/2022 00:05:06.539]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:05:06.578]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:05:06.579]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:05:07.582]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:05:07.583]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:05:13.337]INFO [django.server:161] "GET /admin/core/contactaddress/1/change/ HTTP/1.1" 200 12316
+[09/May/2022 00:05:13.365]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:05:13.400]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:05:13.401]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:05:14.403]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:05:14.403]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:10:56.855]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 00:10:57.604]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:15:26.927]INFO [django.utils.autoreload:251] /usr/src/app/core/user.py changed, reloading.
+[09/May/2022 00:15:27.630]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:15:45.113]INFO [django.utils.autoreload:251] /usr/src/app/core/abstracts.py changed, reloading.
+[09/May/2022 00:15:45.819]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:16:40.031]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 00:16:40.726]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:17:50.822]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 10170
+[09/May/2022 00:17:50.862]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:17:50.877]INFO [django.server:161] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[09/May/2022 00:17:50.878]INFO [django.server:161] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[09/May/2022 00:17:50.896]INFO [django.server:161] "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[09/May/2022 00:17:50.922]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:17:50.922]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:17:51.929]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:17:51.930]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:17:53.616]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 11693
+[09/May/2022 00:17:53.644]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:17:53.677]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:17:53.677]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:17:53.678]INFO [django.server:161] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[09/May/2022 00:17:54.684]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:17:54.684]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:18.824]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 10170
+[09/May/2022 00:18:18.856]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:18:18.900]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:18.901]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:19.905]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:19.905]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:20.063]INFO [django.server:161] "GET /admin/core/user/3/change/ HTTP/1.1" 200 11685
+[09/May/2022 00:18:20.090]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:18:20.123]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:20.123]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:21.132]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:21.132]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:26.533]INFO [django.server:161] "GET /admin/core/user/ HTTP/1.1" 200 10170
+[09/May/2022 00:18:26.558]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:18:26.586]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:26.587]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:18:27.586]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:18:27.587]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:19:21.054]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 11693
+[09/May/2022 00:19:21.092]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:19:21.138]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:19:21.139]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:19:22.143]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:19:22.143]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:19:40.843]INFO [django.utils.autoreload:251] /usr/src/app/core/admin.py changed, reloading.
+[09/May/2022 00:19:41.466]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:19:43.730]INFO [django.server:161] "GET /admin/core/user/2/change/ HTTP/1.1" 200 12636
+[09/May/2022 00:19:43.764]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:19:43.810]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:19:43.810]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:19:44.815]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:19:44.815]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:23:11.943]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7178
+[09/May/2022 00:23:11.979]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:23:12.029]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:23:12.030]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:23:13.036]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:23:13.037]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:23:13.489]INFO [django.server:161] "GET /admin/core/contactaddress/1/change/ HTTP/1.1" 200 11232
+[09/May/2022 00:23:13.516]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:23:13.543]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:23:13.543]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:23:14.552]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:23:14.552]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:25:43.267]INFO [django.server:161] "POST /api/v1/user/contact-address HTTP/1.1" 200 37
+[09/May/2022 00:29:29.019]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 434
+[09/May/2022 00:31:44.114]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 00:31:44.115]WARNING [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 400 83
+[09/May/2022 00:33:24.877]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 00:33:25.560]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:33:30.115]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 00:33:34.822]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 222
+[09/May/2022 00:33:38.963]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 00:33:38.964]WARNING [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 400 67
+[09/May/2022 00:33:44.360]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 00:35:46.520]ERROR [django.request:224] Internal Server Error: /api/v1/user/contact-address/2
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.9/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.9/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/local/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ContactAddress is not JSON serializable
+[09/May/2022 00:35:46.523]ERROR [django.server:161] "PUT /api/v1/user/contact-address/2 HTTP/1.1" 500 97363
+[09/May/2022 00:36:10.910]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 00:36:11.595]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:36:34.194]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 00:36:34.866]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 00:37:16.035]INFO [django.server:161] "PUT /api/v1/user/contact-address/2 HTTP/1.1" 200 45
+[09/May/2022 00:37:29.898]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7409
+[09/May/2022 00:37:29.935]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:37:29.986]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:37:29.986]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:37:30.992]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:37:30.993]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:37:32.334]INFO [django.server:161] "GET /admin/core/contactaddress/2/change/ HTTP/1.1" 200 11274
+[09/May/2022 00:37:32.361]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:37:32.390]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:37:32.390]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:37:33.399]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:37:33.400]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:38:53.532]INFO [django.server:161] "DELETE /api/v1/user/contact-address/2 HTTP/1.1" 200 45
+[09/May/2022 00:38:59.743]INFO [django.server:161] "GET /admin/core/contactaddress/2/change/ HTTP/1.1" 200 11282
+[09/May/2022 00:38:59.778]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 00:38:59.817]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:38:59.818]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:39:00.822]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 00:39:00.823]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 00:39:06.142]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 220
+[09/May/2022 01:05:36.495]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:05:37.180]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:06:02.818]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:06:03.520]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:06:34.814]WARNING [django.request:224] Unauthorized: /api/v1/user/contact-address
+[09/May/2022 01:06:34.815]WARNING [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 401 35
+[09/May/2022 01:06:40.490]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 209
+[09/May/2022 01:06:44.339]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address
+[09/May/2022 01:06:44.340]WARNING [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 400 83
+[09/May/2022 01:07:14.983]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:07:15.662]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:07:55.603]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:07:56.281]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:08:15.818]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:08:16.502]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:08:19.046]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address
+[09/May/2022 01:08:19.046]WARNING [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 400 83
+[09/May/2022 01:08:20.041]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address
+[09/May/2022 01:08:20.041]WARNING [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 400 83
+[09/May/2022 01:08:39.105]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:08:39.782]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:08:42.441]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address
+[09/May/2022 01:08:42.441]WARNING [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 400 74
+[09/May/2022 01:09:50.078]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:09:50.710]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:09:54.908]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:09:55.524]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:09:59.757]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 220
+[09/May/2022 01:10:01.283]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 220
+[09/May/2022 01:10:06.979]INFO [django.server:161] "POST /admin/core/contactaddress/2/change/ HTTP/1.1" 302 0
+[09/May/2022 01:10:07.010]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7642
+[09/May/2022 01:10:07.038]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/May/2022 01:10:07.045]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/May/2022 01:10:07.046]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/May/2022 01:10:07.051]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.052]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/May/2022 01:10:07.053]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.053]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.058]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.058]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.058]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.059]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:10:07.059]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.067]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.068]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/May/2022 01:10:07.072]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/May/2022 01:10:07.112]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:10:07.112]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/May/2022 01:10:07.112]INFO [django.server:161] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[09/May/2022 01:10:07.112]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:10:07.113]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:10:07.124]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/May/2022 01:10:07.153]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:10:07.153]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:10:08.163]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:10:08.163]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:10:09.749]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:10:41.356]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:10:41.990]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:12:11.462]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:12:12.101]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:12:42.670]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:12:43.294]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:12:49.238]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:12:53.172]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 238
+[09/May/2022 01:12:58.301]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/
+[09/May/2022 01:12:58.302]WARNING [django.server:161] "GET /api/v1/user/contact-address/ HTTP/1.1" 404 4206
+[09/May/2022 01:13:02.769]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:14:39.172]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:14:39.792]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:14:43.761]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 01:14:43.761]WARNING [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 400 133
+[09/May/2022 01:16:04.202]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:16:04.822]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:16:10.136]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 01:16:10.136]WARNING [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 400 133
+[09/May/2022 01:16:11.134]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 01:16:11.134]WARNING [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 400 133
+[09/May/2022 01:16:25.306]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:16:25.937]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:16:30.734]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 01:16:30.734]WARNING [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 400 144
+[09/May/2022 01:16:53.469]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:16:54.090]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:17:38.822]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:17:39.437]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:17:43.789]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 24
+[09/May/2022 01:20:11.792]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:20:12.409]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:20:15.743]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:20:19.003]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/
+[09/May/2022 01:20:19.003]WARNING [django.server:161] "GET /api/v1/user/contact-address/ HTTP/1.1" 404 4206
+[09/May/2022 01:20:44.999]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 01:20:44.999]WARNING [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 400 67
+[09/May/2022 01:21:33.717]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:21:34.337]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:21:43.586]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:21:44.201]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:23:14.606]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:23:15.230]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:23:37.663]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:23:38.282]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:25:10.819]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:25:11.435]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:25:27.023]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 01:25:27.024]WARNING [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 400 67
+[09/May/2022 01:25:30.062]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 238
+[09/May/2022 01:26:00.610]INFO [django.server:161] "POST /api/v1/user/contact-address HTTP/1.1" 200 37
+[09/May/2022 01:26:08.406]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7633
+[09/May/2022 01:26:08.440]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:26:08.489]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:08.490]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:09.497]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:09.497]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:15.688]INFO [django.server:161] "GET /admin/core/contactaddress/3/change/ HTTP/1.1" 200 11239
+[09/May/2022 01:26:15.712]INFO [django.server:161] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[09/May/2022 01:26:15.717]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:26:15.724]INFO [django.server:161] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[09/May/2022 01:26:15.724]INFO [django.server:161] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[09/May/2022 01:26:15.727]INFO [django.server:161] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/May/2022 01:26:15.736]INFO [django.server:161] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[09/May/2022 01:26:15.780]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:15.780]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:16.789]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:16.789]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:20.988]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7633
+[09/May/2022 01:26:21.014]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:26:21.048]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:21.048]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:22.057]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:26:22.058]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:26:34.975]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:26:35.601]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:32:47.981]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:32:48.599]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:32:56.958]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 238
+[09/May/2022 01:32:57.720]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 238
+[09/May/2022 01:33:01.758]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:33:02.607]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:33:06.321]INFO [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 200 222
+[09/May/2022 01:33:07.024]INFO [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 200 222
+[09/May/2022 01:33:10.381]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:33:53.766]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:33:54.384]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:35:03.552]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:35:04.170]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:36:42.768]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:36:43.397]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:37:27.438]INFO [django.server:161] "PUT /api/v1/user/contact-address/2 HTTP/1.1" 200 45
+[09/May/2022 01:37:33.317]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7633
+[09/May/2022 01:37:33.353]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:37:33.411]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:33.412]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:34.406]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:34.407]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:40.732]INFO [django.server:161] "GET /admin/core/contactaddress/3/change/ HTTP/1.1" 200 11239
+[09/May/2022 01:37:40.758]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:37:40.791]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:40.791]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:41.799]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:41.800]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:52.070]INFO [django.server:161] "PUT /api/v1/user/contact-address/3 HTTP/1.1" 200 45
+[09/May/2022 01:37:54.614]INFO [django.server:161] "GET /admin/core/contactaddress/3/change/ HTTP/1.1" 200 11275
+[09/May/2022 01:37:54.642]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:37:54.678]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:54.679]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:55.684]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:55.684]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:58.070]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7639
+[09/May/2022 01:37:58.097]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:37:58.122]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:58.122]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:37:59.127]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:37:59.128]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:39:46.423]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:39:47.071]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:41:38.767]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:41:39.392]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:41:50.067]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 01:41:50.067]WARNING [django.server:161] "DELETE /api/v1/user/contact-address/3 HTTP/1.1" 400 149
+[09/May/2022 01:42:29.327]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:42:29.953]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:42:36.189]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:42:36.817]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:42:46.086]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:42:46.725]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:42:49.378]INFO [django.server:161] "DELETE /api/v1/user/contact-address/3 HTTP/1.1" 200 45
+[09/May/2022 01:42:58.352]INFO [django.server:161] "GET /admin/core/contactaddress/3/change/ HTTP/1.1" 200 11283
+[09/May/2022 01:42:58.387]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:42:58.454]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:42:58.454]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:42:59.466]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:42:59.467]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:43:01.552]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 01:43:01.553]WARNING [django.server:161] "DELETE /api/v1/user/contact-address/3 HTTP/1.1" 400 67
+[09/May/2022 01:44:05.028]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:44:05.653]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:44:11.279]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:12.112]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:12.786]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:13.418]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:14.042]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:14.676]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:15.350]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:15.966]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:16.523]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:17.084]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:17.630]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:18.189]INFO [django.server:161] "GET /api/v1/user/contact-address HTTP/1.1" 200 450
+[09/May/2022 01:44:36.318]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:44:36.944]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:44:50.753]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:44:51.350]INFO [django.server:161] "GET /api/v1/user/contact-address/1 HTTP/1.1" 200 218
+[09/May/2022 01:44:54.936]INFO [django.server:161] "GET /api/v1/user/contact-address/2 HTTP/1.1" 200 238
+[09/May/2022 01:44:58.503]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 01:44:58.504]WARNING [django.server:161] "GET /api/v1/user/contact-address/3 HTTP/1.1" 400 67
+[09/May/2022 01:45:28.883]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:45:29.516]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:45:52.995]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 01:45:53.644]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:46:14.437]INFO [django.server:161] "POST /api/v1/user/contact-address HTTP/1.1" 200 37
+[09/May/2022 01:46:17.006]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7863
+[09/May/2022 01:46:17.043]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 01:46:17.100]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:46:17.100]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:46:18.106]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 01:46:18.107]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 01:49:15.616]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:49:16.235]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:51:18.988]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 01:51:19.605]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:54:12.383]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:54:13.007]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 01:56:29.016]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 01:56:29.637]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:13:16.829]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:13:17.097]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:14:45.076]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:14:45.707]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:15:03.351]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:15:03.627]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:16:04.981]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:16:05.257]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:21:32.620]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[09/May/2022 02:21:33.239]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:22:10.880]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[09/May/2022 02:22:11.514]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:22:15.074]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:22:15.347]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:22:31.941]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:22:32.571]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:22:36.316]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:22:36.595]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:22:42.831]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:22:43.456]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:22:57.781]INFO [django.utils.autoreload:251] /usr/src/app/api/urls.py changed, reloading.
+[09/May/2022 02:22:58.400]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:23:05.849]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:23:06.122]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:23:51.338]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:23:51.960]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:23:55.952]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:23:56.232]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:24:10.368]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:24:11.010]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:24:20.602]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:24:20.882]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:24:28.649]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:24:40.161]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:24:40.447]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:27:16.202]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/urls.py changed, reloading.
+[09/May/2022 02:27:16.826]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 02:27:29.271]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:27:29.544]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:28:15.013]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:28:15.298]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:32:27.060]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:32:27.333]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:33:16.897]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:33:17.172]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:33:48.976]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:33:49.249]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:39:02.560]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:39:02.837]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:39:20.644]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:39:21.064]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:39:21.339]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:40:05.085]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:40:05.511]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:40:05.784]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:40:23.368]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/2
+[09/May/2022 02:40:23.796]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:40:24.075]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:41:03.881]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:41:04.306]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:41:04.583]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:41:21.409]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:41:21.843]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:41:22.129]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:42:55.581]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:42:56.010]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:42:56.278]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:43:23.549]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:43:23.979]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:43:24.258]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:44:15.747]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/3
+[09/May/2022 02:44:16.174]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:44:16.452]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:46:22.109]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:46:22.395]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:46:38.715]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:46:39.135]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:46:39.413]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:50:56.544]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:50:56.969]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:50:57.247]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:57:23.921]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:57:24.196]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:57:51.608]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:57:52.026]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:57:52.302]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:58:51.839]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 02:58:52.262]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 02:58:52.541]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:05:17.610]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:05:17.887]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:05:44.664]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:05:44.942]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:06:05.229]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:06:05.504]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:09:56.744]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/1
+[09/May/2022 03:09:57.173]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:09:57.460]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:10:20.864]WARNING [django.request:224] Unauthorized: /api/v1/user/contact-address/4
+[09/May/2022 03:10:20.864]WARNING [django.server:161] "GET /api/v1/user/contact-address/4 HTTP/1.1" 401 35
+[09/May/2022 03:10:25.147]INFO [django.server:161] "POST /api/v1/auth HTTP/1.1" 200 209
+[09/May/2022 03:10:26.890]INFO [django.server:161] "GET /api/v1/user/contact-address/4 HTTP/1.1" 200 222
+[09/May/2022 03:10:32.455]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/5
+[09/May/2022 03:10:32.456]WARNING [django.server:161] "GET /api/v1/user/contact-address/5 HTTP/1.1" 400 67
+[09/May/2022 03:10:38.403]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7863
+[09/May/2022 03:10:38.434]INFO [django.server:161] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/May/2022 03:10:38.437]INFO [django.server:161] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.442]INFO [django.server:161] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.444]INFO [django.server:161] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/May/2022 03:10:38.445]INFO [django.server:161] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/May/2022 03:10:38.446]INFO [django.server:161] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/May/2022 03:10:38.449]INFO [django.server:161] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.449]INFO [django.server:161] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.449]INFO [django.server:161] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.450]INFO [django.server:161] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.452]INFO [django.server:161] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.453]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 03:10:38.453]INFO [django.server:161] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.457]INFO [django.server:161] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/May/2022 03:10:38.461]INFO [django.server:161] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/May/2022 03:10:38.502]INFO [django.server:161] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/May/2022 03:10:38.504]INFO [django.server:161] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/May/2022 03:10:38.504]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 03:10:38.504]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 03:10:38.505]INFO [django.server:161] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 03:10:38.517]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 03:10:38.518]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 03:10:39.274]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7863
+[09/May/2022 03:10:39.299]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 03:10:39.325]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 03:10:39.325]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 03:10:40.181]INFO [django.server:161] "GET /admin/core/contactaddress/ HTTP/1.1" 200 7863
+[09/May/2022 03:10:40.207]INFO [django.server:161] "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+[09/May/2022 03:10:40.231]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 03:10:40.232]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 03:10:41.230]WARNING [django.request:224] Not Found: /favicon.ico
+[09/May/2022 03:10:41.230]WARNING [django.server:161] "GET /favicon.ico HTTP/1.1" 404 2430
+[09/May/2022 03:12:08.058]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 03:12:08.708]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 03:12:12.567]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:12:13.000]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:12:13.281]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:12:37.293]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:12:37.721]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:12:38.003]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:13:27.931]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 03:13:28.556]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 03:14:01.138]INFO [django.utils.autoreload:251] /usr/src/app/contact_address/views.py changed, reloading.
+[09/May/2022 03:14:01.764]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 03:14:09.642]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:14:10.062]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:14:10.336]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:20:41.131]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:20:41.631]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:20:41.914]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:21:19.868]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:21:20.365]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:21:20.644]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:22:13.729]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:22:14.221]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:22:14.498]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:25:16.318]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:25:16.388]WARNING [django.request:224] Not Found: /user/contact-address/1
+[09/May/2022 03:25:16.811]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:25:17.086]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:26:02.202]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:26:02.273]WARNING [django.request:224] Not Found: /user/contact-address/6
+[09/May/2022 03:26:02.707]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:26:02.987]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:26:56.681]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:26:56.753]WARNING [django.request:224] Not Found: /user/contact-address/6
+[09/May/2022 03:26:57.183]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:26:57.466]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:29:13.933]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:29:14.004]WARNING [django.request:224] Not Found: /user/contact-address/6/
+[09/May/2022 03:29:14.425]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:29:14.701]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:32:51.416]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:32:51.489]WARNING [django.request:224] Not Found: /user/contact-address/6
+[09/May/2022 03:32:51.957]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:32:52.268]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:34:25.892]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:34:26.399]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:34:26.685]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:35:34.002]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:35:34.497]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:35:34.777]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:37:00.108]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:37:00.596]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:37:00.870]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:45:36.445]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:45:36.938]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:45:37.219]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:46:31.653]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:46:32.146]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:46:32.426]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:48:44.698]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:48:45.186]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:48:45.465]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:48:57.138]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:48:57.632]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:48:57.912]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:49:19.147]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:49:19.645]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:49:19.925]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:51:08.528]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:51:09.015]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:51:09.291]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:51:22.733]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:51:23.245]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:51:23.520]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:53:38.808]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 03:53:39.454]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 03:53:41.602]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:53:42.099]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:53:42.378]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:53:51.741]INFO [django.utils.autoreload:251] /usr/src/app/core/contact_address.py changed, reloading.
+[09/May/2022 03:53:52.374]INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[09/May/2022 03:54:15.753]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:54:16.249]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:54:16.533]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:55:25.742]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:55:26.241]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:55:26.521]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:55:38.632]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:55:39.127]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:55:39.413]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:56:01.952]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:56:02.460]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:56:02.741]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:57:38.771]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:57:39.263]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:57:39.540]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:58:57.115]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:58:57.606]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:58:57.880]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:59:30.432]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 03:59:30.930]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 03:59:31.202]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:02:03.873]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:02:04.370]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:02:04.648]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:04.942]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:03:05.439]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:05.720]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:17.512]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:03:18.012]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:18.288]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:56.933]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:03:57.435]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:03:57.710]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:06:22.616]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:06:23.105]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:06:23.380]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:06:37.492]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:06:38.001]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:06:38.286]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:07:12.858]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:07:13.361]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:07:13.645]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:02.123]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:08:02.622]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:02.910]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:42.371]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:08:42.874]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:43.155]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:58.753]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:08:59.253]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:08:59.532]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:09:14.930]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:09:15.433]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:09:15.717]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:10:01.899]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:10:02.393]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:10:02.668]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:13:37.621]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:13:38.117]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:13:38.386]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:14:07.072]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:14:07.582]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:14:07.862]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:16:35.282]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:16:35.775]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:16:36.053]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:17:19.658]WARNING [django.request:224] Not Found: /user/contact-address/3
+[09/May/2022 04:17:19.873]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:17:20.370]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:17:20.651]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:18:08.571]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:18:09.073]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:18:09.355]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:20:30.626]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:20:31.177]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:20:31.450]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:20:47.845]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:20:48.343]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:20:48.628]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:21:53.840]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:21:54.342]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:21:54.624]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:23:07.825]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:23:07.897]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/7
+[09/May/2022 04:23:08.333]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:23:08.614]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:23:41.637]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:23:41.711]WARNING [django.request:224] Bad Request: /api/v1/user/contact-address/7
+[09/May/2022 04:23:42.135]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:23:42.411]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:25:04.986]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:25:05.488]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:25:05.768]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:26:57.948]WARNING [django.request:224] Not Found: /api/v1/user/contact-address/1
+[09/May/2022 04:26:58.444]WARNING [django.request:224] Bad Request: /api/v1/user
+[09/May/2022 04:26:58.721]WARNING [django.request:224] Bad Request: /api/v1/user
